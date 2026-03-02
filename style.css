@@ -5,6 +5,7 @@
 }
 body{
     max-width: 512px;
+    border: 2px dashed black;
 }
 .box{
    
